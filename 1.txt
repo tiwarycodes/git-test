@@ -4,4 +4,4 @@ this is a file to test git pull requests
 
 1. this line was added by @anonmityslayer in this repo
 2. line for testing git merge
-3. this change wad made by just check @anonmityslayer to make merge confilicts this line was added to make merge conflicts
+3. this change wad made by @anonmityslayer to make merge confilicts this line was added to make merge conflict
